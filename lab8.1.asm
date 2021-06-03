@@ -6,8 +6,8 @@ includelib /masm32/lib/user32.lib
 includelib /masm32/lib/kernel32.lib
 data segment
 
-N EQU 3 ; —“–Œ » 
-M EQU 4 ; —“ŒÀ¡÷€
+N EQU 3 ; √ë√í√ê√é√ä√à 
+M EQU 4 ; √ë√í√é√ã√Å√ñ√õ
 
 B DB M DUP(?)
 
